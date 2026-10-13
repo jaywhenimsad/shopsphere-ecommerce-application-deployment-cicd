@@ -1,0 +1,87 @@
+[
+  {
+    "file": "banners/hero-banner.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/banners/hero-banner.svg"
+  },
+  {
+    "file": "banners/promo-banner.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/banners/promo-banner.svg"
+  },
+  {
+    "file": "icons/beauty.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/icons/beauty.svg"
+  },
+  {
+    "file": "icons/books.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/icons/books.svg"
+  },
+  {
+    "file": "icons/electronics.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/icons/electronics.svg"
+  },
+  {
+    "file": "icons/fashion.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/icons/fashion.svg"
+  },
+  {
+    "file": "icons/home.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/icons/home.svg"
+  },
+  {
+    "file": "icons/sports.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/icons/sports.svg"
+  },
+  {
+    "file": "icons/toys.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/icons/toys.svg"
+  },
+  {
+    "file": "products/desk-lamp.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/products/desk-lamp.svg"
+  },
+  {
+    "file": "products/running-shoes.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/products/running-shoes.svg"
+  },
+  {
+    "file": "products/smart-watch.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/products/smart-watch.svg"
+  },
+  {
+    "file": "products/smartphone.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/products/smartphone.svg"
+  },
+  {
+    "file": "products/travel-backpack.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/products/travel-backpack.svg"
+  },
+  {
+    "file": "products/tshirt.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/products/tshirt.svg"
+  },
+  {
+    "file": "products/wireless-earbuds.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/products/wireless-earbuds.svg"
+  },
+  {
+    "file": "products/wireless-headphones.svg",
+    "content_type": "image/svg+xml",
+    "s3_key_example": "assets/products/wireless-headphones.svg"
+  }
+]

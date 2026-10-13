@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="520" viewBox="0 0 1500 520">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef3ff"/><stop offset="1" stop-color="#f7fbff"/></linearGradient>
+ <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6677ff"/><stop offset="1" stop-color="#2536a8"/></linearGradient>
+ <linearGradient id="box" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffcb9a"/><stop offset="1" stop-color="#f28b62"/></linearGradient>
+</defs>
+<rect width="1500" height="520" rx="28" fill="url(#bg)"/>
+<circle cx="1160" cy="255" r="220" fill="#dce7ff"/>
+<circle cx="1330" cy="100" r="70" fill="#d9f7ee"/>
+<circle cx="950" cy="420" r="48" fill="#fff0d9"/>
+<!-- laptop -->
+<rect x="930" y="95" width="330" height="235" rx="20" fill="#17233c" transform="rotate(-4 1095 212)"/>
+<rect x="948" y="113" width="294" height="198" rx="11" fill="url(#screen)" transform="rotate(-4 1095 212)"/>
+<circle cx="1095" cy="212" r="62" fill="#ffffff" opacity=".16"/>
+<path d="M1020 238 Q1095 160 1170 238" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" opacity=".9"/>
+<circle cx="1095" cy="190" r="25" fill="#fff" opacity=".9"/>
+<path d="M875 345 L1295 315 L1350 352 L830 390Z" fill="#9aa9c1"/>
+<path d="M900 351 L1284 326 L1315 345 L875 375Z" fill="#dce3ef"/>
+<!-- shopping bag -->
+<path d="M1270 235 L1420 235 L1402 420 Q1345 444 1288 420Z" fill="#4057f5"/>
+<path d="M1310 242 C1310 175 1380 175 1380 242" fill="none" stroke="#17233c" stroke-width="13" stroke-linecap="round"/>
+<path d="M1300 300 L1390 300" stroke="#a5b4fc" stroke-width="8" stroke-linecap="round"/>
+<path d="M1300 325 L1370 325" stroke="#a5b4fc" stroke-width="8" stroke-linecap="round"/>
+<!-- plant -->
+<path d="M820 355 L820 450" stroke="#24765e" stroke-width="10" stroke-linecap="round"/>
+<path d="M820 385 C750 370 750 315 770 300 C820 315 830 350 820 385Z" fill="#2fa884"/>
+<path d="M820 365 C850 295 900 300 914 318 C900 365 860 380 820 365Z" fill="#167b67"/>
+<path d="M820 420 C770 390 735 415 742 440 C775 458 804 443 820 420Z" fill="#55c4a1"/>
+<rect x="780" y="445" width="80" height="55" rx="10" fill="#f3a86c"/>
+<rect x="770" y="438" width="100" height="14" rx="7" fill="#dd8754"/>
+<!-- floating accent -->
+<path d="M1320 75 l10 22 24 3 -18 16 5 24 -21 -12 -21 12 5 -24 -18 -16 24 -3Z" fill="#f5b94c"/>
+</svg>
